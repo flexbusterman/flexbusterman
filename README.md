@@ -32,7 +32,7 @@ From Skellefteå, based in Stockholm. After music studies and a decade freelanci
 [GitHub Repo](https://github.com/flexbusterman/flextris)\
 \
 [Isaac Asimov Quote Typing Simulator](https://christianaugustin.com/asimov) - Practice typing quotes from the worlds best sci-fi author\
-[GitHub Repo](https://github.com/asimov)
+[GitHub Repo](https://github.com/flexbusterman/asimov)
 
 ## 🎛️ Off the clock
 
@@ -40,4 +40,4 @@ Weightlifting · Algorithmic composition in SuperCollider · Window manager tink
 
 ## 📫 Reach me
 
-[Email](mailto:johnchristianaugustin@gmail.com)\
+[Email](mailto:johnchristianaugustin@gmail.com)
