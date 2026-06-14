@@ -2,7 +2,6 @@
 
 ```bash
 Location    Stockholm, Sweden
-OS          Arch GNU/Linux
 Role        IT-Security student - aspiring pentester
 School      IT-Högskolan - IT-Säkerhetstestare 2025–2027
 Prev        Full-stack web dev, musician
