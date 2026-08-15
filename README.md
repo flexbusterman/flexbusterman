@@ -9,10 +9,6 @@ Prev        Full-stack web dev, musician
 
 From Skellefteå, based in Stockholm. After music studies and a decade freelancing as a musician and full-stack web developer, I spent the last 5 years deep down the GNU/Linux rabbit hole, led me into IT-security, which I now study.
 
-```diff
-+ Currently seeking an internship for 2026-11-23 - 2027-06-05.
-```
-
 ## 🛠️ Toolbox
 
 **Security** - Metasploit · Burp Suite · NetExec · BloodHound · Hashcat · Sysreptor
